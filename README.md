@@ -1,0 +1,2 @@
+# DICTIONARY-APP
+Its a DICTIONARY-APP website
